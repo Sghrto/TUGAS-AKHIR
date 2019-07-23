@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.mapbox.mapboxsdk.location.LocationComponent.activateLocationComponent(context,style)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
